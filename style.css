@@ -1,0 +1,45 @@
+.header{
+    font-size: 35px;
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+}
+
+.div_header{
+    float: none;
+    font-size: 20px;
+    background-color: white;
+    box-shadow: 5px 5px 5px grey;
+    color: black;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.div_header2{
+    font-size:18px;
+}
+
+.result_para_tag{
+    font-size:20px;
+    box-shadow: 5px 5px 5px grey;
+}
+
+span{
+    white-space: pre-line;
+}
+
+.footer{
+    background-color: grey;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    color: white;
+    line-height: 2;
+    font-size: 25px;
+}
+
+canvas{
+    border: dashed 5px black;
+    box-shadow: 5px 5px 5px grey;
+    margin-top: 350px;
+}
